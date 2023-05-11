@@ -4,7 +4,7 @@
 
 This is designed to be dynamic for the most part (can fit different phones) with sliding adjustments
 
-<a href="https://www.youtube.com/watch?v=oRKQFbEJR7w">View video</a>
+<a href="https://www.youtube.com/watch?v=oRKQFbEJR7w">View video (YouTube)</a>
 
 ### Hand held stand
 
@@ -14,7 +14,7 @@ While this is custom designed for this phone (and one for iPhone 14 pro max), th
 
 The simple design below can be used as a base regarding the paddle/rotating mechanism.
 
-<a href="https://www.youtube.com/watch?v=hVtDwkcApw0">View video</a>
+<a href="https://www.youtube.com/watch?v=hVtDwkcApw0">View video (YouTube)</a>
 
 ### "Popsicle stick" stand
 
