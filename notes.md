@@ -1,5 +1,3 @@
 ### Display text sizing
 
-can fit `A-Z 123`
-
-can fit this many acros `AAAAAAAAAAAAAAAAAAAAAAAAAAAAB`
+Currently can fit 26 across, 8 vertically eg. 8x26
