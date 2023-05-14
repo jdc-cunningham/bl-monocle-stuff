@@ -1,3 +1,25 @@
+05/14/2023
+
+2:07 PM
+
+okay... I need to wrap this up, dropped 3 days on it
+
+all just screwing around/printing... the TL;DR is if you move the lens up/you have to rotate it/move the thing farther away from your eyes = less crisp text/double vision/light red fading
+
+so... it is best to just use it as is... but that's not great with regard to it being designed to look down towards the ground to use or to tilt your head up
+
+so I will commit and see this through... use bigger text when it's available and also not use it as a teleprompter/way to read large blocks of text or use chunks of words
+
+I have not done any work with the actual FPGA/CV stuff with this thing yet... just cool buzzwords on my part
+
+I'm going to design the magnetic plug now
+
+6:49 PM
+
+broke the clip
+
+making a round thing with swivel hole
+
 05/13/2023
 
 1:35 PM (woke up late)
