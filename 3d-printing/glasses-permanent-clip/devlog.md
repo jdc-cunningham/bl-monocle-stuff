@@ -21,3 +21,5 @@ See all the revisions
 <img src="./versions.JPG"/>
 
 Each print started out about 20 some minutes, now they're between 39-41 minutes
+
+I did design the magnetic connector but I have to finish it tomorrow once I settle on this glasses mount
