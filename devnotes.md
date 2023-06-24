@@ -17,3 +17,11 @@ The monocle no longer stays on as long as it can/back to normal use
 I'm working on improving the clip design since it currently can fall out of the socket thing (monocle ring mount)
 
 At least these are quick to print/try out and I have time to kill today
+
+8:49 AM
+
+the black filament looks good, more discrete
+
+11:38 AM
+
+the frame could be angled downwards more but I can compensate with "glue" (shudders) on the connection points, it looks great though in black
