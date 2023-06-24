@@ -34,3 +34,4 @@ Would I recommend? no
 
 ### Detachable clip (mod of above)
 
+<img src="./images/black-detachable-monocle.JPG"/>
